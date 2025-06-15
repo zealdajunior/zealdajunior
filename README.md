@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @zealdajunior
-- 👀 I’m interested in python, c , c# and c++ programming
-- 🌱 I’m currently learning Python and C
+- 👀 I’m interested in python, c , c# and c++ programming,cyber security
+- 🌱 I’m currently learning Python and C bashscripting pentesting web development
 - 💞️ I’m looking to collaborate on real projects to strengthen my knowledge on programming
 - 😄 Pronouns: ...
 - ⚡ Fun fact: I love playing video games 
